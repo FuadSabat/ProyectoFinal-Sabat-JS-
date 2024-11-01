@@ -1,0 +1,22 @@
+{
+  "tasas": {
+    "personal": {
+      "montoMin": 1000,
+      "montoMax": 50000,
+      "tasa": 5,
+      "añosMax": 5
+    },
+    "hipotecario": {
+      "montoMin": 100000,
+      "montoMax": 1000000,
+      "tasa": 3,
+      "añosMax": 25
+    },
+    "automotriz": {
+      "montoMin": 5000,
+      "montoMax": 100000,
+      "tasa": 4,
+      "añosMax": 7
+    }
+  }
+}
